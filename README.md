@@ -6,8 +6,8 @@ Permite registrar diferentes tipos de empleados, calcular sus salarios netos y g
 
 ## 👨‍💻 Integrantes 
 - Guillermo José Sierra Román  
-- Laura María Ávila  
-- Andrés Henríquez  
+- Laura María Ávila Contreras  
+- Andrés Henríquez Soto
 
 ## 🧠 Principios SOLID aplicados
 - **S:** Cada clase tiene una sola responsabilidad.  
